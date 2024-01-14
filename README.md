@@ -3,7 +3,7 @@
 
 ## Overview
 
-commandcascadedisplay is a versatile voice recognition results giver that allows you to seamlessly give commands and receive corresponding results in a clear and organized manner.
+Command Cascade Display is a versatile voice recognition results giver that allows you to seamlessly give commands and receive corresponding results in a clear and organized manner.
 
 ## Features
 
